@@ -1,0 +1,26 @@
+{
+  "name": "hash-array",
+  "version": "0.0.1",
+  "description": "hashify array and get element by its key",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorkie/node-hash-array.git"
+  },
+	"devDependencies": {
+    "tape": "*"
+  },
+  "keywords": [
+    "hash",
+    "array"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-hash-array/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-hash-array"
+}
