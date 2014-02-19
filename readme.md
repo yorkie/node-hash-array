@@ -1,8 +1,7 @@
-
 node-hash-array [![Build Status](https://travis-ci.org/yorkie/node-envm.png)](https://travis-ci.org/yorkie/node-hash-array)
 =========================
 
-hashify array and get element by its key
+hashify an array and `get` elements by its key
 
 ### Installation
 
@@ -26,8 +25,7 @@ console.log(hashedArr.get('foll')) // prints 20
 ### API
 
 ##### hashArray(src, key)
-Scan a source array `src`, and generate a new object
-based on passed 2nd argument `key`
+Scan a source array `src`, and generate a new objectbased on 2nd argument `key`, that has below methods.
 
 ##### .get(key)
 Get value from your hashed array
