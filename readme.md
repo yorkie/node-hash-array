@@ -1,7 +1,7 @@
 node-hash-array [![Build Status](https://travis-ci.org/yorkie/node-envm.png)](https://travis-ci.org/yorkie/node-hash-array)
 =========================
 
-hashify an array and `get` elements by its key
+Hashify an array and `get` elements by its key
 
 ### Installation
 
