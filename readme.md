@@ -18,7 +18,7 @@ var src = [
   { 'type': 'mail', value: 30 },
   { 'type': 'foll', value: 20 }
 ]
-var hashedArr = hashArray(src, type);
+var hashedArr = hashArray(src, 'type');
 console.log(hashedArr.get('mail')) // prints 30
 console.log(hashedArr.get('foll')) // prints 20
 ```
